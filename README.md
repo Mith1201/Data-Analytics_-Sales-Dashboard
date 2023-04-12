@@ -1,6 +1,6 @@
 # Data-Analytics Sales-Dashboard
 
-![Sales Dashboard](https://user-images.githubusercontent.com/102762042/231426139-42bac39b-716e-4efd-936e-16674e5a2d6e.png)
+![image](https://user-images.githubusercontent.com/102762042/231427603-076618d0-dba7-4ea9-96bb-82286bbca648.png)
 
 https://public.tableau.com/views/SalesDashboard_16812924706930/SalesDashboard?:language=en-US&:display_count=n&:origin=viz_share_link
 
